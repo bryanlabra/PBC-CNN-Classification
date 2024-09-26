@@ -25,8 +25,8 @@ introduction goes here
   
    !kaggle datasets download -d kylewang1999/pbc-dataset
    ```
-  You can replace the dataset by substituting the last line. You can find the exact command here
-
+  You can replace the dataset by substituting the last line. You can find the exact command by clicking on the arrow to the right of the download button and selecting **COPY API COMMAND**
+  <img width="1405" alt="Screenshot 2024-09-26 at 2 58 11 PM" src="https://github.com/user-attachments/assets/032af63c-a393-4350-9847-9ef624d4f843">
   
 ### 1.3 Unzip the dataset:
    ```bash
