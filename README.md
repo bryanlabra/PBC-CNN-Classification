@@ -1,8 +1,7 @@
-# Interfacing Raspberry Pi Zero 2 W with Arducam Module 3 and 1.14" LCD module
+# Training a CNN to classify peripheral blood cell images 
 
 ## Introduction
-
-This repo will serve as a step-by-step guide on how to interface a raspberry pi zero 2 w with a Arducam module 3 (IMX708 sensor), a 1.14" LCD display screen (ST7789 Driver), and a board-mounted tactile switch (or any switch for that matter).
+introduction goes here
 
 ## Prerequisites
 
