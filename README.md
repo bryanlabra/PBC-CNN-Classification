@@ -25,7 +25,9 @@ introduction goes here
   
    !kaggle datasets download -d kylewang1999/pbc-dataset
    ```
+  You can replace the dataset by substituting the last line. You can find the exact command here
 
+  
 ### 1.3 Unzip the dataset:
    ```bash
    !unzip pbc-dataset.zip
