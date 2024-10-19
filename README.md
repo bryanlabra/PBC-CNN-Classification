@@ -1,16 +1,15 @@
 # Training a CNN to classify peripheral blood cell images 
 
 ## Introduction
-The general purpose of this repository is for practicing the implementation of a convolutional neural network (CNN) for classification. 
+The general purpose of this repository is for practicing the implementation of a convolutional neural network (CNN) for a classification task. 
 
-Training a CNN, and other ML models, will often require a GPU. We will use Google Colab’s free access to GPU from within VS Code ( I prefer the VS code environment over a Collab notebook) by connecting to the Colab remotely using SSH tunneling.
+Training a CNN, and other ML models, will often require a GPU. We will use Google Colab’s free access GPU.
 
 ## Prerequisites
 
 - **Software:**
   - Google Collab
   - Kaggle account
-  - VS Code
 
 ## Step 1: Upload your Kaggle API key 
 
